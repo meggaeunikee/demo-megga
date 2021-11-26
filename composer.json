@@ -1,0 +1,21 @@
+{
+    "name": "meggaeunike/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MeggaEunike\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "meggaeunike",
+            "email": "megga.eunike@sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
